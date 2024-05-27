@@ -1,5 +1,6 @@
 # DataScience
 Data Wrangaling:
+
 . Achieved high prediction accuracy by implementing and fine-tuning various ML models.
 
 . Led the project from data collection to model deployment, resulting in actionable health insights.
@@ -12,6 +13,7 @@ Data Wrangaling:
 
 
 Employee Turnover Analytics:
+
 .Perform data quality check by checking for missing values if any.
 
 .Balance and then split the data into a test-train split.
